@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box
+}
+
+body{
+    margin:0;
+    padding:0;
+    background-color: #7f7f7f;
+    
+font-family: 'Anton', sans-serif;
+
+}
+
+#social{
+    background-color:#001c3f;
+    color:white;
+    height:95px;
+    width:100%;
+    position: sticky;
+    top:0;
+    z-index: 1;
+    font-size: 30px;
+    text-align: right;
+    padding:20px;
+    
+}
+
+font{
+    float:left;
+    letter-spacing: 2px;
+}
+
+span{
+    font-size: 22px;
+    letter-spacing: 1px;
+   
+}
+
+#social>i{
+    margin-right:15px;
+}
+
+#social>i:hover{
+    opacity:0.3;
+}
+
+#container{
+    width:80%;
+    margin:auto;
+    height:auto;
+}
+
+header{
+    width:60%;
+    height:250px;
+}
+
+#headerResim{
+    width:85%;
+    height:400px;
+}
+#headersağüst{
+    width:60%;
+    height:300px;
+    
+}
